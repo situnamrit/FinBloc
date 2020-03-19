@@ -1,5 +1,5 @@
-# Fin Block
-A new Flutter project.
+# Financial Block
+A new Flutter project to deliver cutting edge solutions for financial transactions
 
 ## Getting Started
 
